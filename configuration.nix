@@ -174,7 +174,7 @@
     dataDir = "/home/lvdv/Documents";
     configDir = "/home/lvdv/.config/syncthing";
     settings = {
-      devices = {}
+      devices = {};
     };
   };
   
